@@ -1,0 +1,11 @@
+<html>
+<head>
+    <title>
+        info页面信息
+    </title>
+</head>
+<body>
+    {{name}}<br>
+    {{password}}
+</body>
+</html>
